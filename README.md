@@ -1,16 +1,25 @@
-### Hi there 👋
+![header](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<!--
-**RamadanJawad/RamadanJawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>About Me 📌</h1>
 
-Here are some ideas to get you started:
+I am Ramadan Ghattas, a talented flutter developer adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction. I design and develop applications across multiple APIs, third-party integrations and databases, I am currently focusing on learning Computer Science topics (DSA, Data Science, Design Patterns, System Design, ...).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<h2 align="center">Quick Overview 📈</h2>
+
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Mohammed-Hamada&count_private=true&theme=dracula&hide_border=true" alt = "Ramadan Ghattas Rating" width = 400 >
+</p>
+
+
+
+<br /><br />
+<h2 align="center">Let's Connect 😎</h2>
+<p align="center">
+  <a href = "mailto:ramadanabojood@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
+  <a href = "https://www.linkedin.com/in/ramadan-ghattas-72090a269/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
+</p>
+
+
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
